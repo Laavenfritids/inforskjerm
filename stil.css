@@ -6,6 +6,7 @@ body {
            tr:nth-child(even) {background: #CCC}
            tr:nth-child(odd) {background: #EEE}
            tr:first-child {background: #000}
-           tr:nth-child(odd) {color: #0000FF}
+           tr:nth-child(odd) {color: #000}
+            tr:nth-child(even) {color: #000}
            tr:first-child {color: #FFF}
-           tr:last-child {color: #FBA}
+  
